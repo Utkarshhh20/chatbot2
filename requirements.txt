@@ -1,4 +1,5 @@
 streamlit
 transformers
 streamlit-chat
+pytorch
 gunicorn
